@@ -39,7 +39,7 @@ Why would we convert a NodeList into an Array?
 To iterate through the data.
 
 What is a component?
-A fully functional and independent piece of code. Tha can be reuseed.
+A fully functional and independent piece of code. Tha can be reused.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
